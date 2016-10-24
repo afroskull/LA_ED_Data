@@ -1,0 +1,479 @@
+Site Code,School Name,Excellent %,Good %,Fair %,Needs Improvement %,Total #
+State,Louisiana Statewide,27,32,26,15, 42980
+001,Acadia Parish,21,32,32,15, 570
+001005,Church Point High School,14,33,35,18, 120
+001007,Crowley High School,17,34,31,19, 130
+001017,Midland High School,57,22,19,2, 50
+001021,Rayne High School,11,31,39,18, 150
+001034,Iota High School,30,38,26,6, 100
+002,Allen Parish,26,37,28,9, 280
+002001,Elizabeth High School,19,26,41,15, 20
+002002,Fairview High School,23,40,27,10, 30
+002004,Kinder High School,28,46,19,7, 100
+002006,Oakdale High School,26,34,31,9, 60
+002009,Oberlin High School,35,38,19,8, 30
+002010,Reeves High School,11,6,67,17, 10
+003,Ascension Parish,48,30,16,5, 1380
+003003,Donaldsonville High School,12,35,38,16, 60
+003005,East Ascension High School,44,28,21,7, 410
+003014,St. Amant High School,48,30,16,5, 450
+003016,Dutchtown High School,58,32,9,2, 440
+004,Assumption Parish,19,29,33,19, 230
+004001,Assumption High School,19,29,33,19, 230
+005,Avoyelles Parish,11,31,31,27, 360
+005004,Bunkie New Tech High School,6,19,39,37, 70
+005016,Marksville High School,12,31,33,24, 130
+005018,Avoyelles High School,8,24,31,37, 80
+005025,LA School for Ag Science,16,48,22,14, 80
+006,Beauregard Parish,29,31,28,12, 350
+006002,DeRidder High School,33,30,28,9, 120
+006004,East Beauregard High School,40,25,21,14, 50
+006008,Merryville High School,9,30,45,16, 40
+006010,Singer High School,57,7,21,14, 10
+006011,South Beauregard High School,24,39,26,12, 100
+007,Bienville Parish,21,35,30,14, 140
+007001,Arcadia High School,12,26,36,26, 40
+007003,Castor High School,30,42,21,6, 30
+007006,Gibsland-Coleman High School,43,21,36,1, 10
+007008,Ringgold High School,21,38,24,18, 30
+007009,Saline High School,11,47,37,5, 10
+008,Bossier Parish,29,32,25,14, 1500
+008001,Airline High School,38,33,22,8, 480
+008006,Benton High School,40,33,23,5, 220
+008009,Bossier High School,11,29,32,28, 150
+008013,Cope Middle School,NA,NA,NA,NA,NA
+008016,Greenacres Middle School,NA,NA,NA,NA,NA
+008017,Haughton High School,23,34,25,18, 320
+008020,Parkway High School,24,31,30,15, 290
+008022,Plain Dealing High School,4,15,31,50, 20
+009,Caddo Parish,18,26,31,25, 2480
+009008,C.E. Byrd High School,34,33,25,9, 510
+009012,Caddo Parish Magnet High School,64,30,5,2, 260
+009013,Captain Shreve High School,17,34,27,22, 320
+009020,Caddo Parish Middle Magnet School,NA,NA,NA,NA,NA
+009022,Fair Park College Preparatory Academy,1,9,36,54, 140
+009025,Green Oaks Performing Arts Academy,1,10,39,50, 90
+009031,Huntington High School,6,24,40,30, 190
+009042,North Caddo High School,10,30,38,23, 80
+009045,Northwood High School,7,30,36,28, 250
+009059,Southwood High School,4,24,43,29, 330
+009067,Vivian Elementary/Middle School,NA,NA,NA,NA,NA
+009069,Booker T. Washington New Technology High,1,11,46,43, 130
+009073,Woodlawn Leadership Academy,1,13,44,42, 100
+009096,Alexander Learning Center,NA,NA,NA,NA,NA
+009104,Academic Recovery Ombudsman,NA,NA,NA,NA,NA
+009105,Community Ombudsman,7,1,43,50, 10
+009108,Pathways in Education-Louisiana Inc.,NA,NA,NA,NA,NA
+010,Calcasieu Parish,23,28,30,19, 2070
+010003,Alfred M. Barbe High School,32,27,26,15, 480
+010004,Bell City High School,28,47,19,7, 40
+010014,DeQuincy High School,9,32,26,33, 80
+010025,Sam Houston High School,29,33,28,10, 250
+010026,Iowa High School,33,29,30,9, 90
+010033,LaGrange High School,4,22,44,30, 200
+010051,Starks High School,5,48,29,19, 20
+010052,Sulphur High School,30,26,28,16, 510
+010056,Vinton High School,11,23,39,27, 90
+010058,Washington/Marion Magnet High School,6,22,37,35, 140
+010064,Westlake High School,16,35,28,21, 120
+011,Caldwell Parish,25,36,25,13, 80
+011001,Caldwell Parish High School,25,36,25,13, 80
+012,Cameron Parish,13,39,35,14, 90
+012003,Grand Lake High School,23,38,31,8, 40
+012004,Hackberry High School,1,63,26,11, 10
+012005,Johnson Bayou High School,NA,NA,NA,NA,NA
+012007,South Cameron High School,4,25,50,21, 20
+013,Catahoula Parish,20,42,32,6, 110
+013001,Block High School,4,40,44,13, 40
+013002,Central High School,NA,NA,NA,NA,NA
+013005,Harrisonburg High School,39,32,27,2, 40
+013011,Sicily Island High School,18,65,18,1, 10
+014,Claiborne Parish,7,25,35,33, 160
+014004,Haynesville Jr./Sr. High School,10,21,24,45, 50
+014007,Homer High School,6,26,41,28, 80
+014011,Summerfield High School,4,36,40,20, 20
+015,Concordia Parish,25,40,26,9, 220
+015002,Ferriday High School,20,48,25,8, 90
+015006,Monterey High School,16,40,32,12, 50
+015008,Vidalia High School,38,31,25,6, 80
+015014,Concordia Education Center,NA,NA,NA,NA,NA
+016,DeSoto Parish,27,35,28,10, 290
+016004,Logansport High School,NA,NA,NA,NA,NA
+016007,Mansfield High School,13,40,37,10, 70
+016010,Stanley High School,27,41,24,7, 40
+016012,North DeSoto High School,33,32,23,12, 160
+017,East Baton Rouge Parish---EBR Only,19,27,29,25, 2540
+017001,Arlington Preparatory Academy,NA,NA,NA,NA,NA
+017008,Baton Rouge Magnet High School,70,27,3,1, 300
+017010,Belaire High School,2,15,27,56, 250
+017016,Broadmoor Senior High School,12,33,30,24, 270
+017035,Glasgow Middle School,NA,NA,NA,NA,NA
+017038,Glen Oaks Senior High School,1,18,38,43, 120
+017055,McKinley Middle Magnet School,20,28,44,8, 20
+017056,McKinley Senior High School,14,31,37,18, 270
+017063,Northdale Superintendent's Academy,1,1,13,87, 10
+017065,Northeast High School,13,33,38,16, 70
+017079,Scotlandville Magnet High School,8,46,32,14, 300
+017083,Sherwood Middle Academic Academy,NA,NA,NA,NA,NA
+017088,Tara High School,4,23,39,34, 250
+017092,EBR Readiness Superintendent Academy,1,1,38,62, 20
+017097,Westdale Middle School,NA,NA,NA,NA,NA
+017102,Woodlawn High School,11,25,38,26, 250
+017109,AMIkids Baton Rouge,1,1,18,82, 10
+017125,Woodlawn Middle School,NA,NA,NA,NA,NA
+017133,Mentorship Academy of Digital Arts,1,23,39,38, 60
+017134,Mentorship Academy of Science & Technolo,4,28,42,25, 60
+017136,Career Academy,1,12,28,60, 50
+017138,Robert E. Lee High School,51,38,10,1, 90
+018,East Carroll Parish,51,37,5,7, 50
+018002,General Trass High School,51,37,5,7, 50
+019,East Feliciana Parish,20,37,32,12, 140
+019013,East Feliciana Parish Enrichment Academy,NA,NA,NA,NA,NA
+019014,East Feliciana High School,10,39,35,16, 90
+019015,Slaughter Community Charter School,39,33,24,4, 40
+020,Evangeline Parish,22,37,25,16, 350
+020001,Basile High School,23,49,21,6, 40
+020008,Mamou High School,25,31,27,17, 80
+020010,Pine Prairie High School,16,37,26,21, 120
+020014,Ville Platte High School,27,36,24,13, 100
+021,Franklin Parish,12,30,29,29, 170
+021007,Franklin Parish High School,12,30,29,29, 170
+022,Grant Parish,20,25,30,25, 210
+022004,Georgetown High School,19,31,31,19, 10
+022005,Grant High School,26,24,33,17, 140
+022006,Montgomery High School,1,27,22,51, 40
+023,Iberia Parish,25,36,26,13, 810
+023007,Delcambre High School,30,41,21,8, 60
+023015,Jeanerette Senior High School,11,35,33,20, 50
+023020,Loreauville High School,39,49,10,2, 60
+023022,Westgate High School,17,31,31,21, 220
+023024,New Iberia Senior High School,29,35,26,10, 400
+024,Iberville Parish,22,31,35,11, 270
+024010,Plaquemine Senior High School,21,31,37,11, 180
+024017,White Castle High School,20,30,32,18, 50
+024025,East Iberville Elementary/High School,29,34,32,5, 30
+025,Jackson Parish,27,35,30,7, 120
+025005,Jonesboro-Hodge High School,20,40,33,8, 40
+025007,Quitman High School,23,30,35,13, 40
+025010,Weston High School,38,36,24,2, 40
+026,Jefferson Parish,31,31,25,14, 2750
+026010,Bonnabel Magnet Academy High School,44,27,19,9, 300
+026017,Helen Cox High School,13,35,33,19, 240
+026022,East Jefferson High School,28,43,22,6, 280
+026023,John Ehret High School,24,33,30,13, 440
+026029,Fisher Middle/High School,12,37,34,17, 60
+026031,Grand Isle High School,50,33,17,1, 10
+026042,Haynes Academy School for Advanced Studi,98,2,1,1, 100
+026045,L.W. Higgins High School,17,39,31,13, 330
+026051,Grace King High School,22,35,28,15, 280
+026068,Riverdale High School,55,32,11,2, 210
+026080,West Jefferson High School,4,23,37,37, 310
+026105,Patrick F. Taylor Science & Technology A,88,10,1,1, 70
+026107,Thomas Jefferson High School for Advance,94,3,1,1, 70
+026112,Martyn Alternative School,NA,NA,NA,NA,NA
+026123,Jefferson Chamber Foundation Academy,8,42,33,17, 10
+027,Jefferson Davis Parish,23,37,27,13, 360
+027001,Elton High School,12,36,36,16, 20
+027004,Hathaway High School,23,36,23,18, 30
+027006,Jennings High School,24,45,20,11, 120
+027010,Lacassine High School,40,25,23,13, 40
+027012,Lake Arthur High School,16,36,31,17, 50
+027014,Welsh High School,21,34,36,9, 70
+028,Lafayette Parish,26,36,26,12, 1570
+028002,Acadiana High School,14,40,31,15, 290
+028005,Paul Breaux Middle School,NA,NA,NA,NA,NA
+028010,Carencro High School,10,29,42,20, 190
+028011,O. Comeaux High School,33,40,20,7, 420
+028019,Lafayette High School,34,39,19,8, 410
+028027,Northside High School,2,18,46,33, 120
+028050,N. P. Moss Preparatory Academy,1,1,36,64, 10
+028053,Early College Academy,64,33,4,1, 50
+028054,David Thibodaux STEM Magnet Academy,48,40,10,2, 40
+029,Lafourche Parish,17,37,30,16, 570
+029003,Central Lafourche High School,20,37,26,18, 230
+029026,South Lafourche High School,5,32,45,19, 120
+029029,Thibodaux High School,22,42,27,9, 190
+029040,Virtual Academy of Lafourche,13,13,25,50, 10
+030,LaSalle Parish,18,30,27,25, 160
+030004,Jena High School,18,26,31,25, 110
+030006,LaSalle High School,20,39,18,24, 50
+031,Lincoln Parish,30,35,22,13, 680
+031003,Choudrant High School,24,44,26,7, 80
+031013,Ruston High School,36,35,19,9, 500
+031014,Simsboro High School,6,25,29,40, 80
+032,Livingston Parish,34,37,22,8, 1700
+032002,Albany High School,20,39,29,12, 130
+032005,Denham Springs High School,23,42,26,9, 430
+032008,Doyle High School,20,35,31,14, 100
+032009,French Settlement High School,34,30,23,13, 60
+032012,Holden High School,75,23,2,1, 40
+032014,Live Oak High School,39,36,17,8, 330
+032016,Pine Ridge School,NA,NA,NA,NA,NA
+032017,Maurepas School,29,50,17,4, 20
+032023,Springfield High School,30,31,31,9, 100
+032024,Walker High School,21,44,26,9, 250
+032025,Walker Freshman High School,69,24,7,1, 90
+032042,Denham Springs Freshman High School,73,24,3,1, 110
+033,Madison Parish,1,15,45,39, 80
+033002,Madison High School,1,15,45,39, 80
+034,Morehouse Parish,6,28,36,31, 240
+034002,Bastrop High School,5,20,35,40, 160
+034003,Beekman Charter School,8,45,36,11, 70
+034010,Delta Junior High School,NA,NA,NA,NA,NA
+035,Natchitoches Parish,24,35,25,17, 470
+035009,Natchitoches Central High School,29,38,20,14, 360
+035026,Lakeview Junior & Senior High School,10,30,40,20, 90
+035030,Frankie Ray Jackson Sr. Technical Center,1,1,29,71, 10
+035032,Lakeview Annex,NA,NA,NA,NA,NA
+036,Orleans Parish---OPSB Only,43,38,14,5, 950
+036035,Warren Easton Senior High School,13,57,25,6, 230
+036043,Benjamin Franklin High School,89,11,1,1, 220
+036064,Edna Karr High School,27,50,18,5, 260
+036079,Lusher Charter School,68,26,5,1, 110
+036088,McDonogh #35 College Preparatory School,1,11,47,42, 10
+036096,Eleanor McMain Secondary School,NA,NA,NA,NA,NA
+036163,New Orleans Charter Science and Mathemat,35,48,8,9, 80
+037,Ouachita Parish,25,36,26,13, 1300
+037019,Ouachita Parish High School,20,34,30,16, 290
+037032,Sterlington High School,30,38,17,16, 100
+037036,West Monroe High School,32,37,22,9, 500
+037046,West Ouachita High School,26,40,27,6, 260
+037049,Richwood High School,6,29,37,28, 140
+038,Plaquemines Parish,37,38,19,6, 310
+038001,Belle Chasse High School,36,37,20,7, 220
+038006,Phoenix High School,1,10,50,40, 10
+038013,South Plaquemines High School,46,42,12,1, 70
+039,Pointe Coupee Parish,16,44,25,15, 170
+039003,Livonia High School,16,44,25,15, 170
+040,Rapides Parish,22,34,27,17, 1290
+040003,Alexandria Senior High School,24,34,27,14, 290
+040006,Bolton High School,24,37,24,14, 90
+040011,Buckeye High School,17,43,34,5, 120
+040014,Glenmora High School,33,36,25,6, 30
+040028,Oak Hill High School,24,46,18,12, 50
+040030,Peabody Magnet High School,2,20,31,47, 100
+040033,Pineville High School,21,24,30,25, 300
+040035,Plainview High School,23,54,23,1, 10
+040037,Rapides High School,21,54,14,11, 50
+040048,Tioga High School,31,37,19,13, 180
+040055,Northwood High School,13,44,34,9, 30
+041,Red River Parish,14,37,33,16, 70
+041002,Red River High School,14,37,33,16, 70
+042,Richland Parish,10,25,35,29, 240
+042001,Delhi High School,2,19,21,57, 40
+042006,Mangham High School,15,36,32,17, 90
+042008,Rayville High School,9,18,44,29, 110
+043,Sabine Parish,30,41,21,9, 260
+043001,Converse High School,19,41,27,14, 30
+043002,Ebarb School,11,28,39,22, 10
+043004,Florien High School,31,44,17,8, 30
+043006,Many High School,51,39,5,4, 70
+043008,Negreet High School,26,44,26,5, 30
+043010,Pleasant Hill High School,1,54,31,15, 10
+043012,Zwolle High School,24,39,27,10, 50
+044,St. Bernard Parish,44,35,14,7, 460
+044006,Chalmette High School,45,35,14,7, 440
+044019,C.F. Rowley Alternative School,15,40,30,15, 20
+045,St. Charles Parish,35,35,24,6, 680
+045003,Destrehan High School,33,33,28,6, 330
+045005,Hahnville High School,36,37,20,7, 340
+046,St. Helena Parish,5,41,34,21, 100
+046002,St. Helena College and Career Academy,5,41,34,21, 100
+047,St. James Parish,35,33,17,15, 240
+047004,Lutcher High School,34,28,18,20, 140
+047008,St. James High School,37,41,16,7, 100
+048,St. John the Baptist Parish,22,38,28,12, 330
+048001,East St. John High School,21,39,28,12, 300
+048013,West St. John High School,30,27,27,17, 30
+049,St. Landry Parish,20,30,34,16, 270
+049010,Eunice High School,NA,NA,NA,NA,NA
+049032,Opelousas Senior High School,45,22,28,6, 60
+049051,North Central High School,NA,NA,NA,NA,NA
+049052,Beau Chene High School,13,37,35,15, 170
+049053,Northwest High School,6,11,33,50, 10
+049056,Port Barre High School,NA,NA,NA,NA,NA
+049058,Magnet Academy for Cultural Arts,NA,NA,NA,NA,NA
+050,St. Martin Parish,13,28,38,21, 550
+050004,Breaux Bridge High School,10,25,41,24, 230
+050008,Cecilia High School,23,34,33,10, 140
+050017,St. Martinville Senior High School,9,27,37,26, 180
+051,St. Mary Parish,24,31,27,17, 640
+051006,Berwick High School,40,37,18,5, 140
+051007,Centerville High School,18,20,49,13, 50
+051012,Franklin Senior High School,9,31,35,26, 110
+051021,Morgan City High School,29,32,23,16, 150
+051024,Patterson High School,21,33,27,20, 80
+051039,West St. Mary High School,13,29,29,29, 90
+052,St. Tammany Parish,42,32,19,7, 2530
+052007,Boyet Junior High School,NA,NA,NA,NA,NA
+052013,Covington High School,30,35,25,10, 340
+052026,Mandeville High School,59,28,9,4, 420
+052027,Mandeville Junior High School,NA,NA,NA,NA,NA
+052029,Pearl River High School,20,42,29,9, 160
+052034,Creekside Junior High,NA,NA,NA,NA,NA
+052035,Salmen High School,24,30,27,19, 190
+052037,Slidell High School,27,35,29,9, 360
+052038,Slidell Junior High School,NA,NA,NA,NA,NA
+052039,Northshore High School,46,31,17,6, 390
+052052,Fontainebleau High School,52,26,16,6, 380
+052053,Fontainebleau Junior High School,NA,NA,NA,NA,NA
+052061,Lakeshore High School,53,35,10,3, 240
+053,Tangipahoa Parish,24,30,27,19, 1050
+053002,Amite High School,3,18,37,41, 120
+053009,Hammond High Magnet School,19,34,32,16, 200
+053012,Independence High School,7,53,20,20, 30
+053015,Kentwood High Magnet School,11,32,29,29, 30
+053017,Loranger High School,34,33,23,10, 140
+053024,Ponchatoula High School,39,31,20,10, 370
+053029,Jewel M. Sumner High School,12,23,38,28, 120
+053052,Tangipahoa Alternative Solutions Program,1,5,11,84, 10
+054,Tensas Parish,16,24,30,30, 50
+054001,Tensas High School,16,24,30,30, 50
+055,Terrebonne Parish,44,33,16,7, 860
+055005,H. L. Bourgeois High School,49,33,15,3, 280
+055013,Ellender Memorial High School,32,39,16,12, 170
+055020,Houma Junior High School,90,10,1,1, 30
+055034,South Terrebonne High School,40,38,16,6, 140
+055036,Terrebonne High School,43,29,20,8, 240
+056,Union Parish,11,28,34,28, 140
+056002,Downsville Charter School,1,14,32,54, 20
+056004,Union Parish High School,13,31,35,21, 120
+057,Vermilion Parish,50,33,14,3, 440
+057001,Abbeville High School,45,33,20,2, 80
+057006,Erath High School,71,21,7,1, 100
+057008,Gueydan High School,28,55,10,7, 20
+057013,Kaplan High School,39,41,16,3, 80
+057016,North Vermilion High School,50,31,16,4, 130
+058,Vernon Parish,21,40,27,12, 550
+058001,Anacoco High School,34,34,27,5, 40
+058004,Hicks High School,54,35,12,1, 20
+058005,Hornbeck High School,14,55,24,7, 20
+058006,Leesville High School,18,40,29,13, 200
+058009,Pickering High School,22,38,23,18, 110
+058010,Pitkin High School,4,27,42,27, 20
+058012,Rosepine High School,25,44,22,9, 90
+058013,Simpson High School,4,33,48,15, 20
+059,Washington Parish,16,34,33,17, 350
+059006,Franklinton High School,18,38,29,14, 190
+059007,Mt. Hermon School,1,24,33,43, 20
+059008,Pine School,21,32,32,15, 90
+059011,Varnado High School,4,22,53,20, 40
+060,Webster Parish,19,34,29,19, 430
+060005,Doyline High School,21,42,25,13, 20
+060012,Minden High School,11,28,41,21, 170
+060018,Lakeside Junior-Senior High School,21,46,24,10, 70
+060019,North Webster High School,25,35,19,21, 160
+061,West Baton Rouge Parish,31,33,24,12, 260
+061001,Brusly High School,41,35,16,8, 150
+061008,Port Allen High School,17,31,34,18, 100
+062,West Carroll Parish,20,40,32,8, 110
+062001,Epps High School,9,18,55,18, 20
+062003,Forest School,45,36,18,1, 10
+062005,Kilbourne High School,9,59,27,5, 20
+062006,Oak Grove High School,24,42,27,7, 50
+063,West Feliciana Parish,47,30,17,6, 160
+063003,West Feliciana High School,47,30,17,6, 160
+064,Winn Parish,17,39,32,12, 170
+064001,Atlanta High School,19,38,24,19, 20
+064002,Calvin High School,10,52,29,10, 20
+064003,Dodson High School,7,50,43,1, 20
+064009,Winnfield High School,21,34,31,14, 100
+065,City of Monroe School District,15,35,32,17, 480
+065002,Carroll High School,1,29,47,23, 90
+065014,Neville High School,26,35,23,16, 230
+065018,Wossman High School,8,39,37,16, 140
+065023,Sherrouse School,NA,NA,NA,NA,NA
+066,City of Bogalusa School District,2,17,51,30, 80
+066002,Bogalusa High School,2,17,51,30, 80
+067,Zachary Community School District,52,24,17,7, 390
+067002,Northwestern Middle School,NA,NA,NA,NA,NA
+067004,Zachary High School,48,27,18,8, 360
+068,City of Baker School District,1,21,36,42, 90
+068002,Baker High School,1,21,36,42, 90
+069,Central Community School District,38,40,15,7, 360
+069003,Central Middle School,85,15,1,1, 20
+069004,Central High School,35,41,16,7, 340
+307001,Howard School,NA,NA,NA,NA,NA
+101,Special School District,NA,NA,NA,NA,NA
+101031,Renaissance Home for Youth,NA,NA,NA,NA,NA
+302006,Louisiana School for Math Science & the,70,30,1,1, 20
+304,LA Schools for the Deaf and Visually Imp,NA,NA,NA,NA,NA
+304001,Louisiana School for the Deaf,NA,NA,NA,NA,NA
+304002,Louisiana School for the Visually Impair,NA,NA,NA,NA,NA
+334001,New Orleans Center for Creative Arts,26,52,16,5, 60
+328002,Lake Charles College Prep,NA,NA,NA,NA,NA
+333001,Avoyelles Public Charter School,63,33,3,1, 60
+336001,Delhi Charter School,19,35,38,8, 50
+337001,Belle Chasse Academy,NA,NA,NA,NA,NA
+341001,D'Arbonne Woods Charter School,36,40,24,1, 50
+343001,Madison Preparatory Academy,18,55,22,6, 90
+343002,Louisiana Virtual Charter Academy,32,29,22,16, 90
+344001,International High School of New Orleans,8,42,34,16, 210
+345001,Louisiana Connections Academy,18,27,30,24, 140
+348001,New Orleans Military/Maritime Academy,25,44,23,8, 140
+349001,JS Clark Leadership Academy,NA,NA,NA,NA,NA
+3A1001,JCFA-East,NA,NA,NA,NA,NA
+3A4001,Delta Charter School MST,18,45,32,5, 30
+3A6001,Northshore Charter School,6,22,44,28, 10
+3A9001,Vision Academy,9,1,18,73, 10
+3B5001,Northeast Claiborne Charter,1,30,48,22, 20
+318001,LSU Laboratory School,72,17,9,2, 110
+319001,Southern University Lab School,13,38,38,13, 40
+319002,Southern University Laboratory Virtual S,11,28,39,22, 10
+323002,Grambling State University Lab High Scho,1,10,65,25, 20
+A02002,Riverside Alternative High School,1,9,27,64, 10
+A02003,Southside Alternative High School,NA,NA,NA,NA,NA
+001036,AMIkids Acadiana,NA,NA,NA,NA,NA
+033010,Christian Acres Alternative School,NA,NA,NA,NA,NA
+041008,Ware Youth Center,NA,NA,NA,NA,NA
+053045,Florida Parishes Juvenile Detention Cntr,NA,NA,NA,NA,NA
+RBR,Recovery School DistrictBaton Rouge,1,14,29,58, 70
+3B9001,Capitol High School,1,14,29,58, 70
+RNO,Recovery School DistrictNew Orleans,21,33,25,22, 1160
+300003,Lake Area New Tech Early College High Sc,17,44,23,15, 230
+360001,The NET Charter High School,8,15,54,23, 10
+361001,Crescent Leadership Academy,1,7,26,67, 20
+362001,John McDonogh High School,NA,NA,NA,NA,NA
+369002,ReNEW SciTech Academy at Laurel,NA,NA,NA,NA,NA
+369004,ReNEW Accelerated High School City Park,11,17,28,44, 10
+369005,ReNEW Accelerated High School West Bank,NA,NA,NA,NA,NA
+382001,Sci Academy,48,35,11,5, 90
+382002,G. W. Carver Collegiate Academy,22,48,23,6, 60
+382003,G. W. Carver Preparatory Academy,10,52,30,8, 60
+384001,Miller-McCoy Academy for Mathematics and,1,1,17,83, 30
+385002,Cohen College Prep,61,22,16,2, 50
+391001,Dr. Martin Luther King Charter School fo,21,45,22,12, 50
+395005,Lord Beaconsfield Landry-Oliver Perry Wa,27,28,26,20, 200
+395007,Algiers Technology Academy,24,31,29,16, 50
+397001,Sophie B. Wright Institute of Academic E,14,38,34,14, 20
+398005,KIPP Renaissance High School,22,43,29,6, 80
+399003,Joseph S. Clark Preparatory High School,1,15,28,57, 140
+500010,St. Frederick High School (C),NA,NA,NA,NA,NA
+501003,Holy Savior Menard Central High School,NA,NA,NA,NA,NA
+502001,Ascension Diocesan Regional School (C),1,30,60,10, 10
+502003,Catholic High of Pointe Coupee (C),NA,NA,NA,NA,NA
+502012,Redemptorist Diocesan Regional High Scho,1,17,25,58, 10
+502024,St. John High School (C),NA,NA,NA,NA,NA
+502036,St. Michael the Archangel Diocesan Regio,NA,NA,NA,NA,NA
+502039,St. Thomas Aquinas Diocesan Regional HS,NA,NA,NA,NA,NA
+506061,St. Augustine Senior High School (C),5,47,42,5, 10
+506066,St. Charles Catholic High School (C),NA,NA,NA,NA,NA
+506095,St. Mary's Academy (Girls) (C),1,19,38,44, 10
+506122,St. Katharine Drexel Preparatory School,NA,NA,NA,NA,NA
+571001,Lighthouse Christian Preparatory School,NA,NA,NA,NA,NA
+616001,Lutheran High School (L),1,17,33,50, 10
+619001,University Academy,22,34,29,15, 40
+652001,Riverside Academy,NA,NA,NA,NA,NA
+667001,John Paul The Great Academy,NA,NA,NA,NA,NA
+674001,Angles Academy,1,36,64,1, 10
+702001,Hosanna Christian Academy (AG),NA,NA,NA,NA,NA
+705001,Greater Baton Rouge Hope Academy,NA,NA,NA,NA,NA
+719001,Evangel Christian Academy (AG),NA,NA,NA,NA,NA
+722001,Jehovah-Jireh Christian Academy,NA,NA,NA,NA,NA
+735001,Northlake Christian High School,NA,NA,NA,NA,NA
+785001,Westminster Christian Academy,NA,NA,NA,NA,NA
+886001,Claiborne Christian School (CG),36,45,15,3, 30
+898001,Louisiana New School Academy,NA,NA,NA,NA,NA
+927001,Life of Christ Christian Academy/Alterna,NA,NA,NA,NA,NA
+988001,Riverdale Christian Academy,NA,NA,NA,NA,NA
+992001,Union Christian Academy,NA,NA,NA,NA,NA
