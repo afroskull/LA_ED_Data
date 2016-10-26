@@ -1,0 +1,10 @@
+eoc-data/*
+.Rproj.user
+raw-data/*
+.RData
+.Rhistory
+raw-csv/*
+nces-data/*
+nces-raw/*
+nces-keys/*
+eoc-data-pivoted/*
