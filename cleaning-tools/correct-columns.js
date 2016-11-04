@@ -80,6 +80,8 @@ if (process.argv.length !== 3) {
 	file_contents = file_contents.replace(/\>\=/g, '');
 	file_contents = file_contents.replace(/\<\=/g, '');
 	file_contents = file_contents.replace(/\=\</g, '');
+	file_contents = file_contents.replace(/\</g, '');
+	file_contents = file_contents.replace(/\>/g, '');
 
 	// correct site codes
 	var data = file_contents.split('\n').map(function(row) {
