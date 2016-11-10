@@ -17,7 +17,7 @@ geo_school <- df_geo_13_14$School.Name
 geo_list <- as.list(geo_school)
 
 
-dashboardPage(
+ui <- dashboardPage(
   dashboardHeader(title = "Working on it"),
   dashboardSidebar(),
   dashboardBody(
@@ -86,3 +86,5 @@ server <- function(input, output,session) {
     })
   
 }
+
+shinyApp(ui = ui, server = server)

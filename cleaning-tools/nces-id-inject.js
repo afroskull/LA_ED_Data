@@ -65,7 +65,7 @@ if (process.argv.length != 3) {
 		})
 	});
 
-	// now we have ncesData[0] = NCES id, ncesData[1] = Site Code, ncesData[2] = School Name
+	// now we have ncesData[0] = NCES id, ncesData[1] = Site Code, ncesData[2] = School Name, etc
 	data[0].unshift('NCES ID');
 	for (var i = 1; i < data.length; i++) {
 		var schoolCode = data[i][0];
@@ -77,7 +77,9 @@ if (process.argv.length != 3) {
 			data[i].unshift('NA')
 		} else {
 			var ncesCode = ncesData[0][ncesIDIndex];
+			var schoolName = ncesData[2][ncesIDIndex];
 			data[i].unshift(ncesCode);
+			data[i][2] = schoolName;
 		}
 	}
 

@@ -8,14 +8,24 @@ var col_find = [
 var keep_columns = [
 	'NCESSCH',
 	'SEASCH', // school id
-	'SCHNAM'  // school name
+	'SCHNAM',  // school name
+	'ULOCAL', // locale code
+	'TOTFRL', // free and reduced lunch
+	'MEMBER', // total enrollment
+	'WHITE',
+	'LEVEL'
 ];
 
 // translate to english ;D
 var keep_names = [
 	'NCES Code',
 	'Site Code',
-	'School Name'
+	'School Name',
+	'Locale',
+	'Total Free and Reduced Lunch',
+	'Enrolled Students',
+	'White Students',
+	'Education Level'
 ];
 
 /**
@@ -86,7 +96,7 @@ if (process.argv.length != 3) {
 		dataVert = dataVert.filter(function(col) {
 			var flag = false;
 			for (var i = 0; i < keep_columns.length && !flag; i++) {
-				if (col[0].indexOf(keep_columns[i]) !== -1) {
+				if (col[0].indexOf(keep_columns[i]) === 0) {
 					flag = true;
 					col[0] = keep_names[i];
 				}
@@ -99,6 +109,34 @@ if (process.argv.length != 3) {
 				return row[i] 
 			})
 		});
+
+		index = data[0].findIndex(function(elem) {
+			return elem === 'Education Level';
+		});
+		for (var i = 1; i < data.length; i++) {
+			if (data[i][index] == 1) data[i][index] = 'Elemenary';
+			else if (data[i][index] == 2) data[i][index] = 'Middle';
+			else if (data[i][index] == 3) data[i][index] = 'High';
+			else if (data[i][index] == 4) data[i][index] = 'Other';
+			else data[i][index] = 'NA';
+		}
+
+		index = data[0].findIndex(function(elem) {
+			return elem === 'Locale';
+		});
+		for (var i = 1; i < data.length; i++) {
+			if (data[i][index].charAt(0) == 1) data[i][index] = 'Rural';
+			else if (data[i][index].charAt(0) == 2) data[i][index] = 'Town';
+			else if (data[i][index].charAt(0) == 3) data[i][index] = 'Suburban';
+			else if (data[i][index].charAt(0) == 4) data[i][index] = 'Urban';
+			else data[i][index] = 'NA';
+		}
+
+		for (var i = 1; i < data.length; i++) {
+			for (var j = 0; j < data[0].length; j++) {
+				if (Number(data[i][j]) < 0) data[i][j] = 'NA';
+			}
+		}
 
 		// merge data back together
 		var new_contents = data.map(function(row) {

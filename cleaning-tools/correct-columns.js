@@ -51,8 +51,8 @@ if (process.argv.length !== 3) {
 	file_contents = file_contents.replace('Fair  %,', 'Fair %,');
 	file_contents = file_contents.replace('Total  #,', 'Total #,');
 	file_contents = file_contents.replace('Total ,', 'Total #,');
-	file_contents = file_contents.replace('Total Elementary & Secondary Enrollment ,', 'Total #,');
-	file_contents = file_contents.replace('Number of Students,', 'Total #,');
+	file_contents = file_contents.replace('Total Elementary & Secondary Enrollment ,', 'Enrollment #,');
+	file_contents = file_contents.replace('Number of Students,', 'Enrollment #,');
 	file_contents = file_contents.replace('Site Code ,', 'Site Code,');
 	file_contents = file_contents.replace('School Name ,', 'School Name,');
 	file_contents = file_contents.replace('School Name ,', 'School Name,');
@@ -66,8 +66,8 @@ if (process.argv.length !== 3) {
 	file_contents = file_contents.replace('Fair  %\n', 'Fair %\n');
 	file_contents = file_contents.replace('Total  #\n', 'Total #\n');
 	file_contents = file_contents.replace('Total \n', 'Total #\n');
-	file_contents = file_contents.replace('Total Elementary & Secondary Enrollment \n', 'Total #\n');
-	file_contents = file_contents.replace('Number of Students\n', 'Total #\n');
+	file_contents = file_contents.replace('Total Elementary & Secondary Enrollment \n', 'Enrollemnt #\n');
+	file_contents = file_contents.replace('Number of Students\n', 'Entrollment #\n');
 	file_contents = file_contents.replace('Site Code \n', 'Site Code\n');
 	file_contents = file_contents.replace('School Name \n', 'School Name\n');
 	file_contents = file_contents.replace('School Name \n', 'School Name\n');

@@ -8,3 +8,5 @@ nces-data/*
 nces-raw/*
 nces-keys/*
 eoc-data-pivoted/*
+ev/*
+eoc-with-ons/*
