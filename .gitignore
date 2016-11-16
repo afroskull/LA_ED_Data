@@ -10,4 +10,4 @@ nces-keys/*
 eoc-data-pivoted/*
 ev/*
 eoc-with-ons/*
-node_modules/*
+node_modules/
