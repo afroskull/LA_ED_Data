@@ -13,7 +13,8 @@ var keep_columns = [
 	'TOTFRL', // free and reduced lunch
 	'MEMBER', // total enrollment
 	'WHITE',
-	'LEVEL'
+	'LEVEL',
+	'CHARTR'
 ];
 
 // translate to english ;D
@@ -25,7 +26,8 @@ var keep_names = [
 	'Total Free and Reduced Lunch',
 	'Enrolled Students',
 	'White Students',
-	'Education Level'
+	'Education Level',
+	'Charter School'
 ];
 
 /**
@@ -130,6 +132,15 @@ if (process.argv.length != 3) {
 			else if (data[i][index].charAt(0) == 3) data[i][index] = 'Suburban';
 			else if (data[i][index].charAt(0) == 4) data[i][index] = 'Urban';
 			else data[i][index] = 'NA';
+		}
+
+		index = data[0].findIndex(function(elem) {
+			return elem === 'Charter School';
+		});
+		for (var i = 1; i < data.length; i++) {
+			if (data[i][index].charAt(0) == 1) data[i][index] = 'Yes';
+			else if (data[i][index].charAt(0) == 2) data[i][index] = 'No';
+			else data[i][index] = -1;
 		}
 
 		for (var i = 1; i < data.length; i++) {

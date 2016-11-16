@@ -81,7 +81,16 @@ if (process.argv.length != 3) {
 			data[i].unshift(ncesCode);
 			data[i][2] = schoolName;
 		}
+
+		if (data[i][0] === 'NA' && data[i][1].length === 3)
+			data[i][0] = data[i][1];
 	}
+
+	data = data.filter(function(row) {
+		if (row[0] === 'NA' && row[1].length === 6)
+			return false;
+		return true;
+	});
 
 	var new_contents = data.map(function(row) {
 		return row.join(',');
