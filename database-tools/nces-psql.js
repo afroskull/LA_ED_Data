@@ -19,6 +19,31 @@ var client = new pg.Client({
 var basedir = process.cwd();
 basedir = basedir.substring(0, basedir.indexOf('LA_ED_Data') + 'LA_ED_Data'.length) + '/';
 
+// findIndex polyfill
+if (!Array.prototype.findIndex) {
+  Array.prototype.findIndex = function(predicate) {
+    'use strict';
+    if (this == null) {
+      throw new TypeError('Array.prototype.findIndex called on null or undefined');
+    }
+    if (typeof predicate !== 'function') {
+      throw new TypeError('predicate must be a function');
+    }
+    var list = Object(this);
+    var length = list.length >>> 0;
+    var thisArg = arguments[1];
+    var value;
+
+    for (var i = 0; i < length; i++) {
+      value = list[i];
+      if (predicate.call(thisArg, value, i, list)) {
+        return i;
+      }
+    }
+    return -1;
+  };
+}
+
 if (process.argv.length != 3) {
 	// no file specified
 	console.log("nces-psql: no input file.");
@@ -41,7 +66,7 @@ if (process.argv.length != 3) {
 		for (var j = 0; j < ncesData[i].length; j++) 
 			if (ncesData[i][j] == 'NA')
 				ncesData[i][j] = null;
-		var query = client.query('INSERT INTO school (nces_id, site_code, name, locale, level, charter, fr_lunch, enrollment, white_students, year) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)', 
+		var query = client.query('INSERT INTO school (subject, nces_id, site_code, year, excellent, good, fair, needs_improvement) VALUES ($1, $2, $3, $4, $5, $6, $7, $8)', 
 				ncesData[i], (function(data) {
 			return function(err, result) {
 				data.value = data.value + 1;

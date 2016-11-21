@@ -28,5 +28,6 @@ else
 	$BASEDIR/cleaning-tools/stripper.js $base.csv
 	$BASEDIR/cleaning-tools/correct-columns.js $base.clean.csv
 	$BASEDIR/cleaning-tools/nces-id-inject.js $base.clean.csv
+        $BASEDIR/database-tools/eoc-psql.js $base.clean.csv
 	# $BASEDIR/cleaning-tools/pivot.js $base.clean.csv
 fi
