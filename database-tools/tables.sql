@@ -26,3 +26,12 @@ CREATE TABLE test (
   needs_improvement FLOAT,
   PRIMARY KEY (subject, site_code, year)
 );
+
+CREATE TABLE ons (
+  subject VARCHAR(20),
+  site_code VARCHAR(10),
+  year VARCHAR(6),
+  mean_mle FLOAT,
+  std_dev_mle FLOAT,
+  PRIMARY KEY (subject, site_code, year)
+);
