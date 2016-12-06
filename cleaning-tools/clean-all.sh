@@ -7,7 +7,7 @@ do
 	BASEDIR=$(dirname "${BASEDIR}")
 done
 
-$BASEDIR/cleaning-tools/clean-nces.sh
+# $BASEDIR/cleaning-tools/clean-nces.sh
 
 for file in $BASEDIR/raw-data/*.xlsx
 do
